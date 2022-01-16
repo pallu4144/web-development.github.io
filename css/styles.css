@@ -2,11 +2,15 @@
 margin-bottom: 15px;
 }
 .row > div {
+
+padding-right: 0px;
+padding-left: 0px;
+}
+.bg{
 border: 2px solid black;
 background-color: grey;
-margin-left: 20px;
-margin-bottom: 20px;
-padding-right: 0px;
+padding: 5px;
+margin: 5px;
 }
 .title1 {
 float: right;
@@ -21,16 +25,16 @@ float: right;
 background-color: #c14543;
 color: white;
 border: 2px solid black;
-padding-left: 20px;
-padding-right: 20px;
+padding-left: 30px;
+padding-right: 30px;
 font-weight: bold;
 }
 .title3 {
 float: right;
 background-color: #e5d198;
 border: 2px solid black;
-padding-left: 20px;
-padding-right: 20px;
+padding-left: 30px;
+padding-right: 30px;
 font-weight: bold;
 }
 .menu{
